@@ -1,5 +1,4 @@
 # ABOUT
-<!DOCTYPE html>
 <html>
 <body>
 
