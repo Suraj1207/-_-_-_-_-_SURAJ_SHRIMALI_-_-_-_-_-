@@ -12,7 +12,7 @@ I was born in a city named Bikaner situated in north-western Rajasthan which is 
 <html>
 <body>
 
-<img src="FB_IMG_1587097996762_2.jpg">
+<img src="FB_IMG_1587097996762_2.jpg" width="500" height="300">
 
 </body>
 </html>
