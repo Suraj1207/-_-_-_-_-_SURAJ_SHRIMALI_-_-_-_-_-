@@ -22,7 +22,8 @@ I got to know the importance of law in administration and governance after which
 </body>
 </html>
 
-<br><html lang="en">
+<br>
+<html lang="en">
 <head>
 </head>
 <body>
