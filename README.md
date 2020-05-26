@@ -18,7 +18,7 @@ I was born in a city named Bikaner situated in north-western Rajasthan which is 
 </html>
 <br>I completed my schooling from Tagore Public School, Vaishali Nagar, Jaipur in science stream.After which I changed my stream to Humanities as according to my interest and goal to serve the society and make reforms for public welfare.
 <br>In graduation, my disciplines were History, Geography and Economics.
-When I was in final year of my graduation I studied Modern Indian History as my one of subject, from there I got know that how law is the mechanism on which state machinery works either efficiently or inefficiently. which may result into good governance or bad governance and can change the country's future, this enunciated my interest in Law and I cracked the University Law Entrance Test(ULET) for University Of Rajasthan.
+When I was in final year of my graduation I studied Modern Indian History as my one of subject, from there I got know that how law is the mechanism on which state machinery works either efficiently or inefficiently which may result into good governance or bad governance and can change the country's future. 
 <html>
 <body>
 
@@ -26,6 +26,8 @@ When I was in final year of my graduation I studied Modern Indian History as my 
 
 </body>
 </html>.
+This enunciated my interest in Law and I cracked the University Law Entrance Test(ULET) for University Of Rajasthan.
+<br>GOOD LUCK to whosoever read this article.
 # CONTACT
 <html lang="en">
 <head>
