@@ -31,7 +31,7 @@ When I was in final year of my graduation I studied Modern Indian History as my 
 </body>
 
 </html>.
- # CONTACT
+# CONTACT
 <html lang="en">
 <head>
 </head>
