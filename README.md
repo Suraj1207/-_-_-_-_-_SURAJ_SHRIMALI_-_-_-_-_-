@@ -27,7 +27,7 @@ I got to know the importance of law in administration and governance after which
 <body>
 
 
-<img src="yoboy.jpg" alt="Girl in a jacket">
+<img src="yoboy.jpg">
 
 </body>
 </html>
