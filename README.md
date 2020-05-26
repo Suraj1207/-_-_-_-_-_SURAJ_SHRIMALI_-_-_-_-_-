@@ -25,7 +25,7 @@ When I was in final year of my graduation I studied Modern Indian History as my 
 <img src="uniraj.jpg" width="200" height="200">
 
 </body>
-</html>.
+</html>
 This enunciated my interest in Law and I cracked the University Law Entrance Test(ULET) for University Of Rajasthan.
 <br>GOOD LUCK to whosoever read this article.
 # CONTACT
