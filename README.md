@@ -1,4 +1,13 @@
 # ABOUT
+<!DOCTYPE html>
+<html>
+<body>
+
+
+<img src="yoboy.jpg">
+
+</body>
+</html>
 I am from a city Bikaner situated in western Rajasthan which is a part of the great Thar desert.
 I completed my schooling from Tagore Public School, Vaishali Nagar, Jaipur. After which I changed my stream to Humanities as according to my interest and goal to serve the society and make reforms for public welfare.
 My disciplines were History, Geography and Economics.
@@ -22,14 +31,3 @@ I got to know the importance of law in administration and governance after which
  <a href="https://www.instagram.com/suraj_shrimali_/">Instagarm</a>
 </body>
 </html>
-<!DOCTYPE html>
-<html>
-<body>
-
-
-<img src="yoboy.jpg">
-
-</body>
-</html>
-
-  
