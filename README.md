@@ -10,29 +10,14 @@ I got to know the importance of law in administration and governance after which
 </head>
 <body>
  <!-- Text link tag - by Facebook -->
- <a href="https://www.facebook.com/surajshrimali12/">The Link Text</a>
+ <a href="https://www.facebook.com/surajshrimali12/">Facebook</a>
 </body>
 </html>
-<!DOCTYPE html>
 <html lang="en">
 <head>
- <style>
-  a:link,a:visited {
-   color: #0000A0;
-   background-color: #FFFFFF;
-   text-decoration: none;
-   target-new: none;
-  }
-  a:hover {
-   color: #0000FF;
-   background-color: #FFFFC0;
-   text-decoration: underline;
-   target-new: none;
-  }
- </style>
 </head>
 <body>
  <!-- Text link tag - by Facebook -->
- <a href="https://www.facebook.com/surajshrimali12/">The Link Text</a>
+ <a href="https://www.instagram.com/suraj_shrimali_/">Instagarm</a>
 </body>
 </html>
