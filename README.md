@@ -5,5 +5,26 @@ My disciplines were History, Geography and Economics.
 While I was in final year of my graduation I studied Modern Indian History as my one of subject, from there i got know that how a administration and good governance can change a country's future.
 I got to know the importance of law in administration and governance after which I was rigid to cxhoose Law as my next discipline.
 # CONTACT
-<a href="link/html-text-https://www.instagram.com/suraj_shrimali_/.htm">Text Link</a>
-<a href="link/html-text-https://www.facebook.com/surajshrimali12/.htm">Text Link</a>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <style>
+  a:link,a:visited {
+   color: #0000A0;
+   background-color: #FFFFFF;
+   text-decoration: none;
+   target-new: none;
+  }
+  a:hover {
+   color: #0000FF;
+   background-color: #FFFFC0;
+   text-decoration: underline;
+   target-new: none;
+  }
+ </style>
+</head>
+<body>
+ <!-- Text link tag - by Facebook -->
+ <a href="https://www.facebook.com/surajshrimali12/">The Link Text</a>
+</body>
+</html>
