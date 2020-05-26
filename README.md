@@ -8,7 +8,7 @@
 </body>
 </html>
 I was born in a city named Bikaner situated in north-western Rajasthan which is a part of the great Thar desert.
-<br>In childhood I was excellant in martial arts, received medals in several games that showed my interest of sports.
+<br>In childhood I was excellant in martial arts, received medals in several games which exhibited my interest in sports.
 <html>
 <body>
 
